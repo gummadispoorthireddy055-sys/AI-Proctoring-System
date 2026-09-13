@@ -21,8 +21,10 @@ py ai_proctor.py
 ## 📸 Demo
 Upload `demo.mp4` below and it will show here
 
-## 🏆 Built For
+## 🏆 Built For & presented At
 Hackathon 2026 - AI for Education (Original Prototype)
 ICFCRI-2026 - International Conference on Frontiers in Computational Research and Innovation , Loyola Academy
 
+## 👤 Author
+Made by Spoorthi Reddy
 Made with by Spoorthi
