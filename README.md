@@ -27,4 +27,3 @@ ICFCRI-2026 - International Conference on Frontiers in Computational Research an
 
 ## 👤 Author
 Made by Spoorthi Reddy
-Made with by Spoorthi
